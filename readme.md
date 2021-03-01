@@ -1,5 +1,6 @@
 # Bin2Dec
-Idea from: <a href="https://github.com/florinpop17/app-ideas" target="_blank">app-ideas</a>
+Idea from: <a href="https://github.com/florinpop17/app-ideas">app-ideas</a>
+Demonstration: <a href="https://bin2dec-appideas.netlify.app">Bin2Dec</a>
 
 **Tier:** 1-Beginner
 
