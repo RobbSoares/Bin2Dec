@@ -116,10 +116,9 @@ button:hover {
     .content {
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
         align-items: center;
-        line-height: 3rem;
 
+        line-height: 3rem;
         padding: 2rem;
         min-width: 30rem;
         min-height: 20rem;
@@ -127,13 +126,15 @@ button:hover {
 
     .content h1 {
         font-size: 3rem;
+        padding: 2rem;
     }
     
     input {
         width: 10rem;
     }
     
-    p {
+    p, h2 {
+        padding: 1.5rem;
         font-weight: 700;
         color: var(--black-color);
         font-size: 2rem;
